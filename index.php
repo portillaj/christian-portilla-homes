@@ -139,24 +139,122 @@
 <section class="testimonial-section">
     <div class="testimonial-overlay"></div>
     <div class="container">
+            <h1 class="text-center pt-5 testimonial-title">TESTIMONIALS</h1>
+       
         <div class="row">
-           <div class="col-lg-4">
-               <div class="review">
-                <blockquote>"Christian was very responsive and a great communicator.  We were able to find a great 
-                    tenant within a week.  I wold strongly recommend him to other landlords."</blockquote>
+           <div class="col-12">
+               <div class="container the-slider">
+               <div id="slider-container">
+                   <div class="slides">
+                       <div class="my-slide">
+                        <p>"Christian was very responsive and a great communicator.  We were able to find a great 
+                        tenant within a week.  I wold strongly recommend him to other landlords."
+                        </p>
+                        </div>
+
+                        <div class="my-slide">
+                        <p>
+                            "Christian was the broker for the sale of my coop.  He was incredible.  In the vetting 
+                            process, I met with two other brokers before Christian.  Both reputable.  Both seasoned.  
+                            The first told me to list at $215K.  The second, told me $185K.  Christian got me $260K 
+                            after only two days on the market.    Needless to say, I couldn’t be happier.  He was 
+                            attentive, and responsive – made himself available to me always, and it made for a 
+                            stress-free experience, and a seamless transaction. He went above and beyond, and exceeded
+                            my expectations.  I highly recommend."
+                        </p>
+                        </div>
+
+                        <div class="my-slide">
+                        <p>
+                            "Christian made our apartment searching quick, easy, and painless. He found us the perfect place right away,
+                             and was extremely helpful and patient throughout the process. I highly recommend Christian 
+                             to help you find your new home!"
+                        </p>
+                        </div>
+
+                        <div class="my-slide">
+                        <p>
+                            "Christian worked with us on finding a rental that suited our needs. He asked for our 
+                            criteria and found the perfect place for us within 24 hours. He was nice and accommodating 
+                            whenever we wanted some reassurance, clarification, or progress reports on the transaction 
+                            with the landlord. He looked out   for our best interest every step of the way. I would
+                            recommend Christian for any real estate business and will use him in the future!"
+                        </p>
+                        </div>
                     </div>
-            </div> 
-
-            <div class="col-lg-4">
-
-            </div> 
-
-            <div class="col-lg-4">
-
+                    </div>
+                </div>
             </div> 
         </div>
     </div>
 </section>
+
+<section class="logo-break-section mt-0">
+    <div class="logo-break-title">
+    <h1 class="text-center">CP</h1>
+    </div>
+</section>
+
+<section class="contact-section">
+      <div class="container">
+          <h1 class="text-center contact-header">CONTACT ME</h1>
+          <div class="row">
+              <div class="col-lg-6">
+                <h1 class="contact-title">I'd love to hear from you.</h1>
+              </div>
+              <div class="col-lg-6 connect-social text-right">
+                  <h3 class="contact-connect">Connect:</h3>
+                    <i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                    <i class="fa fa-twitter-square fa-3x ml-3" aria-hidden="true"></i>
+                    <i class="fa fa-instagram fa-3x ml-3" aria-hidden="true"></i>
+                    <i class="fa fa-linkedin-square fa-3x ml-3" aria-hidden="true"></i>
+              </div>
+          </div>
+          
+    <div class="row">
+        <div class="col-lg-6">
+            <form class="contact-form">
+                <div class="form-group contact-input">
+                <label for="exampleFormControlInput1">Name:</label>
+                <input type="name" class="form-control"> 
+                </div>         
+
+            <div class="form-group contact-input">
+                <label for="exampleFormControlInput1">Email address:</label>
+                <input type="email" class="form-control">    
+            </div>
+
+            <div class="form-group contact-input">
+                <label for="exampleFormControlInput1">Phone Number:</label>
+                <input type="phone" class="form-control">          
+            </div>
+        </div>
+
+        <div class="col-lg-6">
+            <div class="form-group contact-input">
+                <label for="exampleFormControlTextarea1">Message:</label>
+                <textarea class="form-control contact-textarea"></textarea>
+            </div>
+        </div>    
+            </form>
+            <button class="contact-me-btn">SUBMIT</button>
+        </div>
+    </div>
+
+</section>
+
+<section class="map-section">
+    <div class="google-maps">
+   <iframe src="https://snazzymaps.com/embed/28174" width="100%" height="350px" style="border:none;"></iframe>
+   </div>
+
+   <div class="container">
+    <div class="address">
+        <p class="text-center">144 Larchmont Avenue
+    Larchmont, NY 1053</p>
+    </div>
+   </div>
+<section>
 
 
 <?php include 'footer.php'; ?>

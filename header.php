@@ -11,7 +11,8 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway:500" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Exo+2:300" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700" rel="stylesheet">
-
+    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 </head>
 <body>
 
